@@ -30,11 +30,12 @@ module.exports = {
                 text: "Tag", // 默认文案 “标签”
             },
         },
-        // 日期设置
-        locales: {
-            "/": {
-                lang: "zh-CN",
-            },
+
+    },
+    // 日期设置
+    locales: {
+        "/": {
+            lang: "zh-CN",
         },
     },
     // 特效效果
